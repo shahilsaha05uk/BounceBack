@@ -1,1 +1,2 @@
 git add index && git commit -m "Initial index subtree commit"
+git subtree push --prefix index origin gh-pages
