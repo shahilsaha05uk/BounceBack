@@ -623,7 +623,7 @@
 				map: map,
 				title: 'INDIEGA',
 				animation: google.maps.Animation.DROP,
-				icon: '../assets/images/marker.png'
+				icon: './assets/images/marker.png'
 			} );
 
 			// Marker animation
